@@ -1,0 +1,6 @@
+pen,3
+pencil,5
+notepad,10
+scissor,5
+marker,15
+cartridge,50

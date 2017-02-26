@@ -34,7 +34,7 @@ public class DrawShapes
 		frame.getContentPane().add(canvas);	// puts panel on frame
 		frame.setVisible(true);
 	}
-} // end class SimpleStamper
+} 
 
 class DisplayStamp extends JPanel implements MouseListener 
 {

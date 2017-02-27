@@ -33,6 +33,7 @@ public class DrawShapes
 		// Put frame together
 		frame.getContentPane().add(canvas);	// puts panel on frame
 		frame.setVisible(true);
+		canvas.requestFocus(); //allows panel to respond to mouse/key events
 	}
 } 
 

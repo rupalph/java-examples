@@ -12,3 +12,8 @@ https://github.com/rupalph/java-examples/blob/master/lesson1/src/ShoppingList.ja
 
 3. download and complete
 https://github.com/rupalph/java-examples/blob/master/lesson1/src/DrawShapes.java
+
+4. File Processor, count words and lines of news.txt
+https://github.com/rupalph/java-examples/blob/master/lesson1/src/FileProcessor.java
+https://github.com/rupalph/java-examples/blob/master/lesson1/news.txt
+
